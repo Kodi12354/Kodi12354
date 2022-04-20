@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9EA91D17-F15A-4F16-8CF5-3616DCFEF93A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48F8349D-0FF4-4266-9FC5-D6450C38A121"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyFirstProdject/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "48F8349D-0FF4-4266-9FC5-D6450C38A121 - 29a01fc305b9aea7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyFirstProdject.ViewController.buttonSeven.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "MyFirstProdject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Guest/Downloads/Kodi12354-main/MyFirstProdject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "48F8349D-0FF4-4266-9FC5-D6450C38A121 - d4cf87aa88037ebb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyFirstProdject.ViewController.buttonSeven.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "MyFirstProdject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Guest/Downloads/Kodi12354-main/MyFirstProdject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "48F8349D-0FF4-4266-9FC5-D6450C38A121 - 16fce9978c53053e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyFirstProdject.ViewController.buttonSeven.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "MyFirstProdject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Guest/Downloads/Kodi12354-main/MyFirstProdject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "48F8349D-0FF4-4266-9FC5-D6450C38A121 - 8cb94c97e853a159"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyFirstProdject.ViewController.buttonSeven.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "MyFirstProdject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Guest/Downloads/Kodi12354-main/MyFirstProdject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "48F8349D-0FF4-4266-9FC5-D6450C38A121 - 642aa508315b13e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyFirstProdject.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MyFirstProdject.ViewController"
+                  moduleName = "MyFirstProdject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Guest/Downloads/Kodi12354-main/MyFirstProdject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "635">
+               </Location>
+               <Location
+                  uuid = "48F8349D-0FF4-4266-9FC5-D6450C38A121 - 988a5f8df709b6e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyFirstProdject.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MyFirstProdject.ViewController&gt;"
+                  moduleName = "MyFirstProdject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Guest/Downloads/Kodi12354-main/MyFirstProdject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "592">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
